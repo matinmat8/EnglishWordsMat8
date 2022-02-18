@@ -208,7 +208,8 @@ moral: /ˈmɔːr.əl/ = relating to the standards of good or bad behaviour, fair
 
 disapproval: /ˌdɪs.əˈpruː.vəl/ = the feeling of having a negative opinion of someone or something: Although they said nothing, she could sense their disapproval of her suggestion ...  There was a note of disapproval in the teacher's voice. noun
 
-unpleasant: /ʌnˈplez.ənt/ = not enjoyable or pleasant: an unpleasant surprise. adj
+unpleasant: /ʌnˈplez.ənt/ = not enjoyable or pleasant: an unpleasant surprise ... the unpleasant truth. /// rude and angry: When we complained, the waiter got very unpleasant with us. adj
+
 
 pleasant: /ˈplez.ənt/ = enjoyable, attractive, friendly, or easy to like:  It was pleasant to sit down after standing for hours. adj
 
@@ -241,6 +242,8 @@ moreover: /ˌmɔːrˈoʊ.vɚ/ = (used to add information) also and more importan
 inaccurate: /ɪnˈæk.jɚ.ət/ = not completely correct or exact, or not able to do something correctly or exactly: Your information is inaccurate – I was born in 1956, not 1965. adj
 
 divided: /dɪˈvaɪ.dɪd/ = split into two or more opposing groups who cannot agree: Republican leaders are badly divided on the plan. adj
+
+divide: /dɪˈvaɪd/ = to (cause to) separate into parts or groups: At the end of the lecture, I'd like all the students to divide into small discussion groups ... After the Second World War Germany was divided into two separate countries. verb
 
 brief: /briːf/ = lasting only a short time or containing few words:  I had a brief look at her report before the meeting ...  It'll only be a brief visit because we really don't have much time ...  The company issued a brief statement about yesterday's accident. adj
 
@@ -349,10 +352,7 @@ extract: /ɪkˈstrækt/ = to remove or take out something: The oil which is extr
 
 spread: /spred/ = to cover or reach a wider or increasing area, or to make something do this:The fire spread very rapidly because of the strong wind. verb
 
-disinfect: /ˌdɪs.ɪnˈfekt/ = to clean something using chemicals that kill bacteria and other very small living things that cause disease: disinfect the toilets/a wound. verb
-
 ointment: /ˈɔɪnt.mənt/ = a thick substance, usually containing medicine, that is put on the skin where it is sore or where there is an injury, in order to cure it: eye ointment. noun
-
 
 syrup: /ˈsɪr.əp/ = a very sweet, thick liquid:Corn syrup is used for sweetening drinks. noun
 
@@ -665,11 +665,39 @@ regarding: /rɪˈɡɑːr.dɪŋ/ = about: The company is being questioned regardi
 
 sheer: /ʃɪr/ = used to emphasize how very great, important, or powerful a quality or feeling is; nothing except: I've got where I am through sheer hard work ... My time in prison was sheer hell ... People danced in the streets out of sheer joy. adj
 
-splash out (sth): — phrasal verb with splash verb : /splæʃ/ =  to spend a lot of money on buying things, especially things that are pleasant to have but that you do not need: They splashed out £3,000 on a holiday.
+splash out (sth): — phrasal verb with splash verb : /splæʃ/ =  to spend a lot of money on buying things, especially things that are pleasant to have but that you do not need: They splashed out £3,000 on a holiday. verb  = spend adversely
 
 show off: — phrasal verb with show verb /ʃoʊ/ = showed | shown = to behave in a way that is intended to attract attention or admiration, and that other people often find annoying: She only bought that sports car to show off and prove she could afford one ... He's always showing off to his classmates.
 
 sulk: /sʌlk/ = to be silent and refuse to smile or be pleasant to people because you are angry about something that they have done: He's sulking in his room because I wouldn't let him have any more chocolate. verb
+
+sympathetic: /ˌsɪm.pəˈθet̬.ɪk/ = used to describe someone who shows, especially by what they say, that they understand and care about someone else's suffering: He suffers from back trouble too, so he was very sympathetic about my problem ... She just needed someone who would lend a sympathetic ear to her (= listen to her in a kind and understanding way) once in a while. adj
+
+trunk: /trʌŋk/ = a covered space at the back of a car, for storing things in: I always keep a blanket and a toolkit in the trunk for emergencies ... Stolen goods were found in the trunk of her car. noun
+
+untidy: /ʌnˈtaɪ.di/ = not tidy: She's really untidy at home ... Tom always leaves his clothes in an untidy heap on the bedroom floor ... Mike is really untidy - you should see the state of his flat! ... Her desk was so untidy that she spent the whole day trying to establish some sort of order. adj
+
+establish: /ɪˈstæb.lɪʃ/ = to cause something or someone to be accepted in or familiar with a place, position, etc.: After three months we were well established in/at our new house/new jobs. verb
+
+heap:/hiːp/ = an untidy pile or mass of things: a heap of clothes/rubbish. noun
+
+pile: /paɪl/ = objects positioned one on top of another: a pile of books .. a pile of dirty clothes. noun
+
+wave: /weɪv/ = to raise your hand and move it from side to side as a way of greeting someone, telling someone to do something, or adding emphasis to an expression: I waved to/at him from the window but he didn't see me ... I was waving my hand like mad but he never once looked in my direction ... She was so annoyed she wouldn't even wave us goodbye/wave goodbye to us. verb
+
+every now and then  (also (every) now and again) = sometimes, but not regularly: We still get together for lunch every now and then. expression / idiom
+
+UNIT 5 =>
+
+affair:/əˈfer/ = a situation or subject that is being dealt with or considered: What I do in my spare time is my affair (= only involves me). noun
+
+attach: /əˈtætʃ/ = to fasten, join, or connect something: I attached a photo to my application form ... Use this cable to attach the printer to the computer ... In the UK , packets of cigarettes come with a government health warning attached to them (= on them) ... Make sure the rope is firmly attached before attempting to climb down it ... Did you remember to attach a label to the present? verb
+
+beat: /biːt/ beat | beaten or US also beat = to defeat or do better than: Simon always beats me at tennis ... Our team was comfortably/easily/soundly beaten in the first round of the competition ... He beat me fair and square (= without cheating) ... She has beaten her own record of three minutes ten seconds. verb(past tense beat, past participle beaten /ˈbiːtn/)
+
+beneficial: /ˌben.əˈfɪʃ.əl/ = helpful, useful, or good: The improvement in sales figures had a beneficial effect/influence on the company as a whole ... Only some bacteria are harmful - many are beneficial. adj
+
+figure: /ˈfɪɡ.jɚ/ = the symbol for a number or an amount expressed in numbers: Can you read this figure? Is it a three or an eight? ..  Write the amount in both words and figures. noun
 
 
 
@@ -699,12 +727,15 @@ from head to toe = از سر تا پا
 
 pretend: /prɪˈtend/ = to behave as if something is true when you know that it is not, especially in order to deceive people or as a game: He pretended (that) he didn't mind, but I knew that he did ... The children pretended (that) they were dinosaurs ... Were you just pretending to be interested? ... she's not really hurt - she's only pretending ... Of course I was angry - I can't pretend otherwise.
 
-intentionally: /ɪnˈten.ʃən.əl.i/ = in a planned or intended way: I didn't ignore her intentionally - I just didn't recognize her ... She was being intentionally unpleasant ... I've never hurt anybody intentionally in my life ... It is a crime to intentionally hold back evidence ... We don't know whether this was done intentionally or accidentally.
+intentionally: /ɪnˈten.ʃən.əl.i/ = in a planned or intended way: I didn't ignore her intentionally - I just didn't recognize her ... She was being intentionally unpleasant ... I've never hurt anybody intentionally in my life ... It is a crime to intentionally hold back evidence ... We don't know whether this was done intentionally or accidentally. adv
+
+intentional: /ɪnˈten.ʃən.əl/ = Did you leave his name out by accident or was it intentional? adj
+
+intention: /ɪnˈten.ʃən/ = something that you want and plan to do: It wasn't my intention to exclude her from the list - I just forgot her ... I've no intention of changing my plans just to fit in with his ... He's full of good intentions, but he never does anything about them! noun
 
 intelligence: /ɪnˈtel.ə.dʒəns/ = the ability to learn, understand, and make judgments or have opinions that are based on reason: He believes that all children are born with equal intelligence. noun
 
 imitate: /ˈɪm.ə.teɪt/ = to behave in a similar way to someone or something else, or to copy the speech or behaviour, etc. of someone or something: to copy someone’s speech or behavior, or to copy something as a model: My four-year-old daughter is always trying to imitate her older sister. verb
-
 
 claim: /kleɪm/ = to say that something is true or is a fact, although you cannot prove it and other people might not believe it: The company claims (that) it is not responsible for the pollution in the river ... He claims to have met the president, but I don't believe him ... An unknown terrorist group has claimed responsibility for this morning's bomb attack. verb
 
@@ -715,7 +746,6 @@ secretly: /ˈsiː.krət.li/ = in a way that people do not know or are not told a
 clearly: /ˈklɪr.li/ = in a way that is easy to see, hear, read, or understand: When you fill in the form, please write clearly in black ink. adv
 
 facility: /fəˈsɪl.ə.t̬i/ = a place, especially including buildings, where a particular activity happens: a new sports facility ... The training facility is scheduled to open in April 2005. noun
-
 
 warn: /wɔːrn/ = to make someone realize a possible danger or problem, especially one in the future: We were warned not to eat the fish which might upset our stomachs.Have you warned them (that) there will be an extra person for dinner? verb
 
@@ -729,11 +759,227 @@ facility: /fəˈsɪl.ə.t̬i/ = a place, especially including buildings, where a
 
 folk: /foʊk/(US usually folks) = people, especially those of a particular group or type: old folk ... Ordinary folk can't afford cars like that. /// used when speaking informally to a group of people: All right, folks, dinner's ready! noun
 
-
 fairy tale: /ˈfer.i ˌteɪl/ = a traditional story written for children that usually involves imaginary creatures and magic. noun //// fairy-tale having a special and attractive or beautiful quality, like something in a fairy tale: They had a fairy-tale wedding ... Sadly, there was no fairy-tale happy ending to the story. adj
 
 enormous: /əˈnɔːr.məs/ = extremely large: He earns an enormous salary ... You've been an enormous help ... She's put an enormous pile of papers on my desk and I haven't a clue what to do with them ... He ran up an enormous phone bill by ringing up chatlines all the time. adj
 
 entitled: /ɪnˈtaɪ.t̬əld/ = feeling that you have the right to do or have what you want without having to work for it or deserve it, just because of who you are: These kids are spoiled, entitled, self-absorbed, and apathetic. adj
+
+threaten: /ˈθret.ən/ = to tell someone that you will kill or hurt them or cause problems if they do not do what you want: They threatened the shopkeeper with a gun ... They threatened to kill him unless he did as they asked. verb
+
+impact: /ˈɪm.pækt/ = the force or action of one object hitting another: The impact of the crash reduced the car to a third of its original length ... The tax on fuel will not have a serious impact on the better-off. noun
+
+deter: /dɪˈtɝː/ = to prevent someone from doing something or to make someone less enthusiastic about doing something by making it difficult for that person to do it or by threatening bad results if they do it: These measures are designed to deter an enemy attack ... High prices are deterring many young people from buying houses. verb
+
+resistant: /rɪˈzɪs.tənt/ = not wanting to accept something, especially changes or new ideas: Why are you so resistant to change? .. Why are you so resistant to change? noun
+
+eliminate: /iˈlɪm.ə.neɪt/ = to remove or take away someone or something: A move towards healthy eating could help eliminate heart disease ... We eliminated the possibility that it could have been an accident ... The police eliminated him from their enquiries. verb
+
+posture: /ˈpɑːs.tʃɚ/ = the way in which someone usually holds their shoulders, neck, and back, or a particular position in which someone stands, sits, etc.: She's got very good/bad posture. noun
+
+lurk: /lɝːk/ = to wait or move in a secret way so that you cannot be seen, especially because you are about to attack someone or do something wrong: Someone was lurking in the shadows ...  Why are you lurking around in the hallway? verb
+
+severe:/səˈvɪr/ = causing very great pain, difficulty, worry, damage, etc.; very serious: This is a school for children with severe learning difficulties ... In parts of Africa there is a severe food/water shortage. adj
+
+shortage: /ˈʃɔːr.t̬ɪdʒ/ = a situation in which there is not enough of something: The long hot summer has led to serious water shortages ... There's a shortage of cheap housing in the region. noun
+
+be made of money = to be very rich: No, you can't have a new computer game. I'm not made of money.
+
+quite a bita: fairly large amount or to a fairly large degree = She’s quite a bit older than you, isn’t she? ... He knows quite a bit about painting. // quite a bit of:  I expect you do quite a bit of travelling? /// quite a bit more/less:   They’re worth quite a bit more than I thought.
+
+bit by bit: gradually = Bit by bit, I was starting to change my mind.
+
+precisely: /prəˈsaɪs.li/ = exactly: The fireworks begin at eight o'clock precisely ... What do you think the problem is, precisely? adv
+
+weigh: /weɪ/ = to have a heaviness of a stated amount, or to measure the heaviness of an object: She weighs herself every week on the scales in the bathroom ... Your luggage must be weighed before it is put on the aircraft ... She weighs between 55 and 60 kilograms. verb
+
+even though = despite the fact that: Even though he never completed college, he runs a successful software company. 
+
+fluency: /ˈfluː.ən.si/ = the ability to speak or write a language easily, well, and quickly: One of the requirements of the job is fluency in two or more African languages ... She is hoping to achieve a higher level of fluency and accuracy ... They have hired teachers to help those students who lack fluency in English. noun
+
+trick: /trɪk/ = an action that is intended to deceive, either as a way of cheating someone, or as a joke or form of entertainment: She played a really nasty trick on me - she put syrup in my shampoo bottle! ... My niece was showing me all the tricks that she's learned to do with her new magic set ... It's trick photography - she's supposed to look like she's walking on water. noun
+
+beneficial: (noun) benefit beneficiary (adjective) beneficial (verb) benefit (adverb) beneficially: having a good effect = beneficial to/for:  Cycling is highly beneficial to health and the environment. adj
+
+build up phrasal: if something builds up somewhere, or if you build it up, it gradually becomes bigger or greater = build something ↔ up  The museum has built up a fine art collection. verb
+
+charity: /ˈtʃer.ə.t̬i/ = an organization whose purpose is to give money, food, or help to those who need it, or to carry out activities such as medical research that will help people in need, and not to make a profit: Proceeds from the sale of these cards will go to (= be given to) local charities. /// help, especially in the form of money, given freely to people who are in need, for example because they are ill, poor, or have no home, and organizations that provide this help: She does a lot of work for charity ... People tend to give to (= give money to) charity at Christmas time ...  They did a charity performance on the first night, to raise money for AIDS research. noun
+
+check in: — phrasal verb with check verb /tʃek/ = to show your ticket at an airport so that you can be told where you will be sitting and so that your bags can be put on the aircraft: Passengers are requested to check in two hours before the flight ... You can save time by checking in online ... There are a couple of passengers who still haven't checked in, so we may be able to get you on the flight. verb
+
+effect: /əˈfekt/ = the result of a particular influence: I tried taking tablets for the headache but they didn't have any effect ...  I think I'm suffering from the effects of too little sleep ...  She has a lot of confidence, which she uses to good effect (= to her advantage) in interviews. noun
+
+depressed: /dɪˈprest/ = unhappy and without hope: He seemed a bit depressed about his work situation ... She became deeply depressed when her husband died ... She became very depressed in her old age ...
+Try not to get depressed - after all, what's the use of worrying? adj
+
+disc jockey: /ˈdɪsk ˌdʒɑː.ki/ = someone who plays records and talks on the radio or at an event where people dance to recorded popular music, such as a nightclub. noun
+
+drop off: — phrasal verb with drop verb /drɑːp/ = to start to sleep. verb
+
+drowsy: /ˈdraʊ.zi/ = being in a state between sleeping and being awake: The room is so warm it's making me feel drowsy. = sleepy adj
+
+embarrassed: /ɪmˈber.əst/ = feeling ashamed or shy: She felt embarrassed about undressing in front of the doctor ... I was too embarrassed to admit that I was scared ... You have no idea how embarrassed I was ... I was too embarrassed to admit that I'd forgotten. adj
+
+fire: /faɪr/ = to cause a weapon to shoot bullets, arrows, or missiles: He fired his gun into the air ... Someone started firing at us ... Without warning he started firing into the crowd. verb
+
+balm: /bɑːm/ = something that gives comfort: Her gentle words were a balm to me. noun
+
+gentle: /ˈdʒen.t̬əl/ = calm, kind, or soft: He's very gentle with his kids. adj
+
+repetitive: /rɪˈpet̬.ə.t̬ɪv/ = involving doing or saying the same thing several times, especially in a way that is boring: a repetitive job/task. adj
+
+addicted: /əˈdɪk.tɪd/ = The treatment for people addicted to tranquillizers includes training in stress management and relaxation techniques ... A lot of people nowadays have become addicted to the internet. be carefull we should say become addicted or get addicted because it is an adjective ... I tried to give up smoking several times before I realized I was addicted. adj
+
+technique: /tekˈniːk/ = a way of doing an activity that needs skill: She's a wonderfully creative dancer but she doesn't have the technique of a truly great performer ... Yoga is a very effective technique for combating stress ... We ensure that our surgeons are trained in all the latest surgical techniques. noun
+
+aftertaste: /ˈæf.tɚ.teɪst/ = the taste that a particular food or other substance leaves in your mouth when you have swallowed it: The medicine left an unpleasant aftertaste. noun
+
+among: /əˈmʌŋ/ = in the middle of or surrounded by other things: I saw a few familiar faces among the crowd. preposition
+
+emcee:/ˌemˈsiː/ = a person whose job is to introduce performers in a television, radio, or stage show: He was the emcee of the live New Year's Eve show ... She's an MC, hosting open mic nights. noun
+
+stick: /stɪk/ stuck | stuck = to cause something to become fixed, for example with glue or another similar substance: I tried to stick the pieces together with some glue/tape. /// If you tell someone to stick something or where they can stick something, it means that you do not want to keep that thing: "I've had enough of working here," she said, "You can stick your job!" verb
+
+extent: /ɪkˈstent/ = area or length; amount: We don't yet know the extent of his injuries (= how bad his injuries are). noun
+
+fit in: — phrasal verb with fit verb = to feel that you belong to a particular group and are accepted by that group: It's no surprise she's leaving - she never really fitted in. /// If one thing fits in with another thing, they look pleasant together or are suitable for each other: It's a very nice sofa but it doesn't fit in with the rest of the room ... She says that she doesn't fit in at her new school ... She's exactly the type of person we need in our department - she should fit in perfectly. phrasal verb with fit verb
+
+down-to-earth:/ˌdaʊn.tuːˈɝːθ/ =  practical, reasonable, and friendly: She's a down-to-earth woman with no pretensions. adj
+
+convenience store: /kənˈviː.ni.əns ˌstɔːr/ = a shop that sells food, drinks, etc. and is usually open until late. noun
+
+contagious: /kənˈteɪ.dʒəs/ = A contagious disease can be caught by touching someone who has the disease or a piece of infected clothing: The infection is highly contagious, so don't let anyone else use your towel. adj
+
+infect:/ɪnˈfekt/ = to pass a disease to a person, animal, or plant: All the tomato plants are infected with a virus. /// If a place, wound, or substance is infected, it contains bacteria or other things that can cause disease: The meat had been infected by E coli bacteria. verb # disinfect
+
+disinfect: /ˌdɪs.ɪnˈfekt/ = to clean something using chemicals that kill bacteria and other very small living things that cause disease: disinfect the toilets/a wound. verb # infect
+
+disinfectant: /ˌdɪs.ɪnˈfek.t̬ənt/ = a substance that contains chemicals that kill bacteria and is used especially for cleaning surfaces in toilets and kitchens. noun
+
+dentures: /ˈden·tʃərz/ = artificial teeth worn by people who do not have their own teeth: a set of dentures. plural noun
+
+extract: /ɪkˈstrækt/ = to remove or take out something: They used to extract iron ore from this site ... The oil which is extracted from olives is used for cooking. verb
+
+ore: /ɔːr/ = rock or soil from which metal can be obtained: iron/copper ore. noun
+
+flyer: mainly UK (US usually flier): /ˈflaɪ.ɚ/ = a small piece of paper with information on it about a product or event //// a person who travels by air: Frequent flyers receive travel privileges. noun
+
+forceps: /ˈfɔːr.seps/ = a metal instrument with two handles used in medical operations for picking up, pulling, and holding things. noun
+
+instrument: /ˈɪn.strə.mənt/ = Which instrument do you play? ... If you want to learn to play a musical instrument, it might be a good idea to begin on something simple ... The family all play instruments - they're all very musical. /// a tool or other device, especially one without electrical power, used for performing a particular piece of work: instruments of torture. noun
+
+scissors: /ˈsɪz.ɚz/ = a device used for cutting materials such as paper, cloth, and hair, consisting of two sharp blades that are joined in the middle, and two handles with holes to put your fingers through: Could you pass me the/those scissors, please? ... Never mess around with scissors ... Use scissors to cut the shapes out ... Do you have any nail scissors? noun
+
+bone: /boʊn/ = any of the hard parts inside a human or animal that make up its frame: The child was so thin that you could see her bones ... human/animal bones /// the bone in meat or fish: There's still a lot of meat left on the bone - shall I slice some off for you? ... I don't like fish because I hate the bones ... A fish bone got stuck in my throat. noun
+
+fracture: /ˈfræk.tʃɚ/ = If something hard, such as a bone, fractures, or is fractured, it breaks or cracks: She fractured her skull in the accident ... Last year he fractured his skull. verb
+
+general practitioner: /ˌdʒen.ɚ.əl prækˈtɪʃ.ən.ɚ/ = a doctor who provides general medical treatment for people who live in a particular area: The doctor started as a general practitioner 20 years ago ... You should go to see your general practitioner ... I was planning to become a general practitioner. noun
+
+hand sth out: — phrasal verb with hand verb = to give something to each person in a group or place: The teacher asked her to hand out the worksheets ... They stood on the street corner handing out leaflets. verb
+
+indigestion: /ˌɪn.dɪˈdʒes.tʃən/ = pain that you get in your stomach when you have eaten food that is difficult to digest: Do you suffer from indigestion after you have eaten? noun
+
+injection:/ɪnˈdʒek.ʃən/ = the act of putting a liquid, especially a drug, into a person's body using a needle and a syringe (= small tube): My arm was very tender after the injection ... If I'm talking a bit funnily it's because I've just had an injection in my mouth. noun
+
+inject: /ɪnˈdʒekt/ = to use a needle and syringe (= small tube) to put a liquid such as a drug into a person's body: Phil's a diabetic and has to inject himself with insulin every day. verb
+
+lifeguard: /ˈlaɪf.ɡɑːrd/ = a person on a beach or at a swimming pool whose job is to make certain that the swimmers are safe and save them if they are in danger. noun
+
+misfortune: /ˌmɪsˈfɔːr.tʃən/ = bad luck, or an unlucky event: That was the worst film I've ever had the misfortune to see ... It's unfair to take advantage of other people's misfortunes. noun
+
+oculist: /ˈɑː.kjə.lɪst/ = a person who examines or treats people's eyes. noun
+
+optician: /ɑːpˈtɪʃ.ən/ = someone whose job is examining people's eyes and selling glasses or contact lenses to correct sight problems: You really ought to see an optician ... Her youngest daughter is an optician. noun
+
+punctual: /ˈpʌŋk.tʃu.əl/ = arriving, doing something, or happening at the expected, correct time; not late: He's fairly punctual (= he usually arrives on time). adj
+
+bullet: /ˈbʊl.ɪt/ = a small, metal object that is shot from a gun: A bullet had lodged in the boy's leg ... The bullet went clean through his shoulder. noun
+
+imply: /ɪmˈplaɪ/ = to communicate an idea or feeling without saying it directly: Are you implying (that) I'm fat? ... I'm not implying anything about your cooking, but could we eat out tonight? verb
+
+cross: /krɑːs/ = to go across from one side of something to the other: It's not a good place to cross the road ... Look both ways before you cross over (= cross the road) ... Cross the bridge and turn right. verb
+
+jail: /dʒeɪl/ = a place where criminals are kept to punish them for their crimes, or where people accused of crimes are kept while waiting for their trials: a 13-year jail sentence/term. noun
+
+jail: /dʒeɪl/ = to put someone in a jail: He was jailed for three years. verb
+
+shore: /ʃɔːr/ = the land along the edge of a sea, lake, or wide river: You can walk for miles along the shore ... The boat was about a mile from/off (the) shore when the engine suddenly died ... We could hear waves crashing against the shore ... She stood on the shore and let the water wash over her tired feet. noun
+
+hand in hand = holding each other's hand: I saw them walking hand in hand through town the other day. adv, noun
+
+wreck: /rek/ = to destroy or badly damage something: Our greenhouse was wrecked in last night's storm. verb
+
+digest: /daɪˈdʒest/ = to change food in your stomach into substances that your body can use: I find that I don't digest meat easily ... Sit still and allow your meal to digest ... The adult owls feed their young with food which they've already partly digested ... How can you expect to digest your food properly when you eat your meals so fast? verb
+
+digest: /daɪˈdʒest/ = to read or hear new information and take the necessary time to understand it: This chapter is so difficult to digest, I'll have to read it again later. verb
+
+bet:/bet/: present participle betting | past tense and past participle bet = to risk money on the result of an event or a competition, such as a horse race, in the hope of winning more money: He regularly goes to the races and bets heavily ... She bet £500,000 on the horse that came in second ... I bet you $25 (that) I'll get there before you.I bet you (that) she's missed the bus ... I bet (that) he won't come. verb
+
+predict: /prɪˈdɪkt/ = to say that an event or action will happen in the future, especially as a result of knowledge or experience: No one can predict when the disease will strike again ... I cannot predict what will happen next year ... Heavy snowfalls are predicted for tonight and tomorrow. verb
+
+prediction: /prɪˈdɪk.ʃən/ = a statement about what you think will happen in the future: Please don't ask me to make any predictions about tomorrow's meeting ... No one believed her prediction that the world would end on 12 November ... This environmental report contains more dark predictions about the future of the earth ... Their predictions were hopelessly out of line with the actual results. noun
+
+exclusively: /ɪkˈskluː.sɪv.li/ = only: This offer is available exclusively to our established customers. adv
+
+bilingual:/baɪˈlɪŋ.ɡwəl/ = able to use two languages equally well: They are raising bilingual children ... He is bilingual in Mandarin and English ... bilingual dictonary. adj
+
+monolingual: /ˌmɑː.noʊˈlɪŋ.ɡwəl/ = able to use one language well: Monolingual children are able to learn a second language quickly if given the chance. adj
+
+coaster:/ˈkoʊ.stɚ/ = a small piece of wood, plastic, or other material that you put a glass or cup on to protect a surface from heat or liquid. noun
+
+exponentially: /ˌek.spoʊˈnen.ʃəl.i/ = in a way that becomes quicker and quicker as something that increases becomes larger: We are growing exponentially in resources, people, and financing ... The cell divides rapidly, increasing the numbers of cells exponentially. adv
+
+get-go: informal: /ˈɡetˌɡoʊ/ = the beginning, when someone starts to do something, or a process starts: The latest research shows that babies can be taught the difference between night and day from the get-go. noun
+
+latest: /ˈleɪ.t̬ɪst/ = newest or most recent or modern: Have you seen her latest movie? ... His latest film is described as a 'romantic comedy'. adj
+
+least adverb, determiner, pronoun : /liːst/ = less than anything or anyone else; the smallest amount or number: I like the green one least of all ... No one believed her, least of all (= especially not) the police. adv
+
+determined: /dɪˈtɝː.mɪnd/ = wanting to do something very much and not allowing anyone or any difficulties to stop you: I'm determined to get this piece of work done today ... She will get the job she wants - she's a very determined person. adj
+
+go without (sth): — phrasal verb with go verb /ɡoʊ/ = to not have something or to manage to live despite not having something: They were poor as children, and sometimes had to go without ... I'd rather go without food than work for him ... There's no ketchup left, so I'm afraid you'll just have to go without ... How long can they go without food?. verb
+
+limit: /ˈlɪm.ɪt/ = the greatest amount, number, or level of something that is either possible or allowed: Is there a limit on the amount of money you can claim? ... There's a limit to the number of times I can stop what I'm doing just so I can help him! ... We set a time limit of 30 minutes for the test. noun
+
+maintenance: /ˈmeɪn.tən.əns/ = the work needed to keep a road, building, machine, etc. in good condition: Old houses need a lot of maintenance ... The magazine offers tips on cutting your house maintenance costs. noun
+
+nightmare: /ˈnaɪt.mer/: a very upsetting or frightening dream: a terrifying nightmare ... I shouldn't have watched that movie - it'll give me nightmares. /// an extremely unpleasant event or experience or possible event or experience:  The whole journey was a nightmare - we lost our luggage and both flights were delayed. noun
+
+nod off: — phrasal verb with nod verb [ I or T ] /nɑːd/ = to begin sleeping, especially not intentionally: After our busy day, we both sat and nodded off in front of the TV. verb
+
+nod: /nɑːd/ = to move your head down and then up, sometimes several times, especially to show agreement, approval, or greeting, or to show something by doing this: Many people in the audience nodded in agreement ... When I suggested a walk, Elena nodded enthusiastically ... She looked up and nodded for me to come in. verb
+
+ordeal: /ɔːrˈdɪəl/ = a very unpleasant and painful or difficult experience: The hostages' ordeal came to an end when soldiers stormed the building ... She looked pale and drawn after her ordeal. noun
+
+organize: /ˈɔːr.ɡən.aɪz/ = to make arrangements for something to happen: They organized a meeting between the teachers and students ... She had organized a car to meet me at the airport ... She's an active member of the Women's Institute and is always organizing talks for her local group. verb
+
+reckon: /ˈrek.ən/ = to think or believe: I reckon it's going to rain ... How much do you reckon (that) it's going to cost?"Can you fix my car today?" "I reckon not/so (= probably not/probably)." verb
+
+REM sleep: /ˈrem sliːp/ = (rapid eye movement sleep) a period during sleep when your eyes move quickly, when you are dreaming. noun
+
+scale: /skeɪl/ = a set of numbers, amounts, etc., used to measure or compare the level of something: How would you rate his work on a scale of 1 to 5? // a device for weighing things or people: kitchen/bathroom scales. noun
+
+siesta: /siˈes.tə/ = a rest or sleep taken after lunch, especially in hot countries. noun
+
+sleepwalker: /ˈsliːpˌwɑː.kɚ/ = a person who gets out of bed and walks around while they are sleeping. noun
+
+sort out something: — phrasal verb with sort verb [ I/T ] = to deal successfully with a problem or a situation: Her financial records are a mess, but we’ll sort them out. verb
+
+sound: /saʊnd/ = not broken or damaged; healthy; in good condition: Considering his age, his body is surprisingly sound. adj
+
+survive: /sɚˈvaɪv/ = to continue to live or exist, especially after coming close to dying or being destroyed or after being in a difficult or threatening situation: The baby was born with a heart problem and only survived for a few hours ... These plants cannot survive in very cold conditions ...  The front passengers were lucky to survive the accident. verb
+
+tag: /tæɡ/ = a small piece of paper, cloth, or metal with information on it, tied or stuck onto something larger: a price tag. noun
+
+telly: /ˈtel.i/ = informal for television: What's on telly tonight? ... Who turned the telly on? ... There's a good film on the telly tonight. noun
+
+tricky: /ˈtrɪk.i/ = If a piece of work or problem is tricky, it is difficult to deal with and needs careful attention or skill: It's tricky to learn to ride a skateboard, but you never forget how ... I'm in a tricky situation - whatever I do I'll offend someone. adj
+
+twitch: /twɪtʃ/ = (to cause) to make a sudden small movement with a part of the body, usually without intending to: She twitched her nose like a rabbit. verb
+
+burst: /bɝːst/ = to break open or apart suddenly, or to make something do this: I hate it when balloons burst ... If I eat any more cake I'll burst (= I cannot eat anything else)! verb
+
+efficiently: /ɪˈfɪʃ.ənt.li/ = working or operating in an organized, quick, and effective way: She runs the business very efficiently ... We take consumer complaints very seriously and resolve them as quickly and efficiently as possible ... The faster and more powerful your computer and network are, the more efficiently the program will run. adv
 
 
