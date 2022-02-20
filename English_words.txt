@@ -944,6 +944,10 @@ limit: /ˈlɪm.ɪt/ = the greatest amount, number, or level of something that is
 
 maintenance: /ˈmeɪn.tən.əns/ = the work needed to keep a road, building, machine, etc. in good condition: Old houses need a lot of maintenance ... The magazine offers tips on cutting your house maintenance costs. noun
 
+maintain: /meɪnˈteɪn/ = to continue to have; to keep in existence, or not allow to become less: We have standards to maintain ... Despite living in different countries, the two families have maintained close links. verb
+
+maintenance: /ˈmeɪn.tən.əns/ = the work needed to keep a road, building, machine, etc. in good condition: Old houses need a lot of maintenance ... The magazine offers tips on cutting your house maintenance costs ... The network will be down for an hour for routine maintenance ... It's just a regular maintenance shutdown. noun
+
 nightmare: /ˈnaɪt.mer/: a very upsetting or frightening dream: a terrifying nightmare ... I shouldn't have watched that movie - it'll give me nightmares. /// an extremely unpleasant event or experience or possible event or experience:  The whole journey was a nightmare - we lost our luggage and both flights were delayed. noun
 
 nod off: — phrasal verb with nod verb [ I or T ] /nɑːd/ = to begin sleeping, especially not intentionally: After our busy day, we both sat and nodded off in front of the TV. verb
@@ -981,5 +985,29 @@ twitch: /twɪtʃ/ = (to cause) to make a sudden small movement with a part of th
 burst: /bɝːst/ = to break open or apart suddenly, or to make something do this: I hate it when balloons burst ... If I eat any more cake I'll burst (= I cannot eat anything else)! verb
 
 efficiently: /ɪˈfɪʃ.ənt.li/ = working or operating in an organized, quick, and effective way: She runs the business very efficiently ... We take consumer complaints very seriously and resolve them as quickly and efficiently as possible ... The faster and more powerful your computer and network are, the more efficiently the program will run. adv
+
+limitation: /ˌlɪm.əˈteɪ.ʃən/ = the act of controlling and especially reducing something: If someone or something has limitations, that person or thing is not as good as he, she, or it could be: Living in an apartment is fine, but it does have its limitations - for example, you don't have your own garden ... Despite her limitations as an actress, she was a great entertainer. noun
+
+survival: /sɚˈvaɪ.vəl/ = the fact of a person, organization, etc. continuing to live or exist: The doctors told my wife I had a 50/50 chance of survival ... His main concern is to ensure his own political survival ... England are fighting for survival (= trying not to be defeated) in this game. // something that has continued to exist from a previous time: Most of these traditions are survivals from earlier times ... What are her chances of survival? noun
+
+janitor: /ˈdʒæn.ə.t̬ɚ/ = a person employed to take care of a large building, such as a school, and who deals with the cleaning, repairs, etc. noun
+
+preferable: /ˈpref.ər.ə.bəl/ = better or more suitable: Anything would be preferable to war ... Earlier would be preferable from my point of view ... Staying at home is certainly preferable to going out with someone you don't like. adj
+
+majority: /məˈdʒɑː.rə.t̬i/ = the larger number or part of something: The majority of the employees have university degrees ... The majority of young professionals in the capital have moved there from provincial towns. noun
+
+minority: /maɪˈnɔːr.ə.t̬i/ = a smaller number or part: It's only a tiny minority of people who are causing the problem ... Children with single parents at my school were very much in the minority (= there were very few) ... Because the two main parties have won almost the same number of votes, the minority group holds the key to the result. noun
+
+beat: /biːt/ =  a regular movement or sound, especially that made by your heart: I put my head on his chest but I could feel no heartbeat ... My heart skipped a beat (= I felt very excited) when she said, "Yes, I'll marry you." ... The car radio was pumping out music with a heavy beat ... Every time he looks at me my heart skips a beat. noun
+
+They didn't just take someone advice or perfect plan and put it into their plan ... to take someone's advice .. ‘Take some advice from someone who knows.
+
+cunning: /ˈkʌn.ɪŋ/ = Cunning people are clever at planning something so that they get what they want, especially by tricking other people, or things that are cleverly made for a particular purpose: He's a very cunning man. adj
+
+lullaby: /ˈlʌl.ə.baɪ/ = a quiet song that is sung to children to help them go to sleep. noun
+
+preferable: /ˈpref.ər.ə.bəl/ = better or more suitable: Anything would be preferable to war ... Earlier would be preferable from my point of view ... Staying at home is certainly preferable to going out with someone you don't like. adj
+
+slow down: — phrasal verb with slow verb = to be less active and relax more: The doctor has told him to slow down or he'll have a heart attack. verb
 
 
