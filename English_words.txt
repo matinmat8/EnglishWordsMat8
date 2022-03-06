@@ -520,8 +520,6 @@ accomplishment: /əˈkɑːm.plɪʃ.mənt/ = something that is successful, or tha
 
 achieve: /əˈtʃiːv/ = to succeed in finishing something or reaching an aim, especially after a lot of work or effort: I've been working all day, but I feel as if I've achieved nothing. verb
 
-ambition: /æmˈbɪʃ.ən/ = a strong wish to achieve something: His ambition is ultimately to run his own business ... He has already achieved his main ambition in life - to become wealthy. noun
-
 ahead: /əˈhed/ = in front: The road ahead is very busy ... Turn left at the traffic lights, and you'll see the hospital straight ahead. adv
 
 arrest: /əˈrest/ = If the police arrest someone, they take them away to ask them about a crime that they might have committed: He was arrested when customs officers found drugs in his bag ...  The police arrested her for drinking and driving. verb
@@ -952,6 +950,8 @@ nightmare: /ˈnaɪt.mer/: a very upsetting or frightening dream: a terrifying ni
 
 nod off: — phrasal verb with nod verb [ I or T ] /nɑːd/ = to begin sleeping, especially not intentionally: After our busy day, we both sat and nodded off in front of the TV. verb
 
+doze off: /doʊz/ = If you doze off, you start to sleep, especially during the day: The office was so hot I nearly dozed off at my desk. verb
+
 nod: /nɑːd/ = to move your head down and then up, sometimes several times, especially to show agreement, approval, or greeting, or to show something by doing this: Many people in the audience nodded in agreement ... When I suggested a walk, Elena nodded enthusiastically ... She looked up and nodded for me to come in. verb
 
 ordeal: /ɔːrˈdɪəl/ = a very unpleasant and painful or difficult experience: The hostages' ordeal came to an end when soldiers stormed the building ... She looked pale and drawn after her ordeal. noun
@@ -970,7 +970,7 @@ sleepwalker: /ˈsliːpˌwɑː.kɚ/ = a person who gets out of bed and walks arou
 
 sort out something: — phrasal verb with sort verb [ I/T ] = to deal successfully with a problem or a situation: Her financial records are a mess, but we’ll sort them out. verb
 
-sound: /saʊnd/ = not broken or damaged; healthy; in good condition: Considering his age, his body is surprisingly sound. adj
+sound: /saʊnd/ = not broken or damaged; healthy; in good condition: Considering his age, his body is surprisingly sound ... It's an old building but it's still structurally sound. adj
 
 survive: /sɚˈvaɪv/ = to continue to live or exist, especially after coming close to dying or being destroyed or after being in a difficult or threatening situation: The baby was born with a heart problem and only survived for a few hours ... These plants cannot survive in very cold conditions ...  The front passengers were lucky to survive the accident. verb
 
@@ -982,7 +982,7 @@ tricky: /ˈtrɪk.i/ = If a piece of work or problem is tricky, it is difficult t
 
 twitch: /twɪtʃ/ = (to cause) to make a sudden small movement with a part of the body, usually without intending to: She twitched her nose like a rabbit. verb
 
-burst: /bɝːst/ = to break open or apart suddenly, or to make something do this: I hate it when balloons burst ... If I eat any more cake I'll burst (= I cannot eat anything else)! verb
+burst: /bɝːst/ = to break open or apart suddenly, or to make something do this: I hate it when balloons burst ... If I eat any more cake I'll burst (= I cannot eat anything else)! /// to feel a strong emotion, or strong wish to do something: Tom was bursting to tell everyone the news. verb
 
 efficiently: /ɪˈfɪʃ.ənt.li/ = working or operating in an organized, quick, and effective way: She runs the business very efficiently ... We take consumer complaints very seriously and resolve them as quickly and efficiently as possible ... The faster and more powerful your computer and network are, the more efficiently the program will run. adv
 
@@ -1010,4 +1010,128 @@ preferable: /ˈpref.ər.ə.bəl/ = better or more suitable: Anything would be pr
 
 slow down: — phrasal verb with slow verb = to be less active and relax more: The doctor has told him to slow down or he'll have a heart attack. verb
 
+shallow: /ˈʃæl.oʊ/ = having only a short distance from the top to the bottom: The stream was fairly shallow so we were able to walk across it. // not completely certain or convincing: shallow breathing = breathing in which you only take a small amount of air into your lungs with each breath ... The water was shallow so the kids were perfectly safe. adj
 
+partially: /ˈpɑːr.ʃəl.i/ = not completely: The meat was only partially cooked ... He's been partially deaf since birth ... My dish, when it came, was only partially cooked. adv
+
+power nap: a brief sleep during the day, taken for the desired effect of improving one’s alertness and ability to work efficiently throughout the remainder of the day: The only thing I have left to do before the presentation is to take a 20-minute power nap. noun
+
+verb (used without object) = to take a brief sleep during the day in order to improve one’s alertness and ability to work efficiently throughout the remainder of the day: Since he started power napping, his midafternoons have become much more productive. verb
+
+brag: /bræɡ/ = to speak too proudly about what you have done or what you own: She's always bragging about how much money she earns ... They bragged that their team had never been beaten ... I don't mean to brag but I'm a good programmer! and I'm good in my field! verb
+
+to some​/​a certain​/​a limited extent
+
+loo: /luː/ = informal for toilet: I'll just go to the loo. noun
+
+fanatical: /fəˈnæt̬.ɪ.kəl/ = extremely interested in something, to a degree that some people find unreasonable: Gary's fanatical about football. // holding extreme beliefs that may lead to unreasonable or violent behaviour: a fanatical group that has threatened to assassinate doctors. adj
+
+racist: /ˈreɪ.sɪst/ = someone who believes that their race makes them better, more intelligent, more moral, etc. than people of other races and who does or says unfair or harmful things as a result: Two of the killers are known to be racists. noun /// coming from or having the belief that people who belong to other races are not as good, intelligent, moral, etc. as people who belong to your own race : He furiously denied being racist. adj
+
+quite a lot/bit/few: a fairly large number or amount = He’s got quite a lot of friends ... I lived quite a lot of my early childhood at the Thompsons' house behind a shop on Harehills Parade ... There's quite a bit of noise coming from the kitchens. 
+
+justly:/ˈdʒʌst.li/ = in a fair or morally correct way: Kenji Mizoguchi is justly recognized as one of Japanese cinema’s greatest figures ... He was justly celebrated as an actor. adv
+
+crisp: /krɪsp/ = hard enough to be broken easily: used to describe cooked foods, such as pastry and biscuits, that are well cooked so that they are just dry and hard enough. adj
+
+broth: /brɑːθ/ = a thin soup, often with vegetables or rice in it: chicken/turkey/beef broth. noun
+
+big mouth: /ˈbɪɡ ˌmaʊθ/ = If someone is or has a big mouth, they often say things that are meant to be kept secret: He is/has such a big mouth ... He went and opened his big mouth and told them the whole story ... I'm sorry. I wasn't supposed to tell you! Me and my big mouth! ... my big mouth always gets me in trouble ... they won't tell me anyway, because I've got a big mouth! noun
+
+warmth: /wɔːmθ/ /wɔːmθ/ = a high temperature that is comfortable but not hot: I've put a T-shirt on under my sweater for extra warmth ... I like everything about summer - the light, the warmth, the clothes - the whole caboodle. noun
+
+lap: /læp/ =  (of waves) to hit something gently, producing quiet sounds: The water lapped against the side of the pool ... The waves gently lapped the shore. verb
+
+throughout: /θruːˈaʊt/ = in every part, or during the whole period of time: People throughout the country are out of work ... We'll update you on this news story throughout the day. preposition, adverb
+
+head off: — phrasal verb with head verb /hed/ = to start a journey or leave a place: What time are you heading off? verb
+
+recuperation: /rɪˌkuː.pərˈeɪ.ʃən/ = the process of becoming well again after an illness or of getting back your strength, health, etc.: You need to allow time for rest and recuperation ... He went home to continue his recuperation from a third operation. noun
+
+creepy: /ˈkriː.pi/ = strange or unnatural and making you feel frightened: a creepy film ... a creepy smile // unpleasant and making you feel uncomfortable, especially because of sexual behaviour that is not wanted or not appropriate: She got pestered by a creepy cab driver ... In our culture, a friendship between an 11-year-old girl and a 36-year-old man is considered creepy. adj
+
+stare: /ster/ = to look for a long time with the eyes wide open, especially when surprised, frightened, or thinking: Don't stare at people like that, it's rude ... Chuck sat quietly for hours staring into the distance, thinking of what might have been. verb
+
+mumble: /ˈmʌm.bəl/ = to speak quietly and in a way that is not clear so that the words are difficult to understand: She mumbled something about being too busy ... "I'm sorry," he mumbled. verb
+
+glossy: /ˈɡlɑː.si/ = smooth and shiny: She has wonderfully glossy hair ... a dog with a glossy coat. adj
+
+jolt: /dʒoʊlt/ = to (cause something or someone to) move suddenly and violently: The train stopped unexpectedly and we were jolted forwards ... The truck jolted along the rough track through the field. verb
+
+leap:/liːp/ = leaped or leapt | leaped or leapt = to make a large jump or sudden movement, usually from one place to another: He leaped out of his car and ran towards the house ... I leaped up to answer the phone ... The dog leaped over the gate into the field ... He leaped across the river ... She leaped up to help him. verb
+
+jaw: /dʒɑː/ = the lower part of your face that moves when you open your mouth: He has a strong/square jaw. noun
+
+bride: /braɪd/ = a woman who is about to get married or has just got married: He returned from New York with his lovely new bride ... In some countries it is traditional for a bride to wear white. noun
+
+groom: /ɡruːm/ /ɡrʊm/ =to clean an animal, often by brushing its fur: Polly spends hours in the stables grooming her pony. verb
+
+groom: /ɡruːm/ /ɡrʊm/ =a bridegroom : The bride and groom walked down the aisle together. noun
+
+dominate: /ˈdɑː.mə.neɪt/ = to have control over a place or person: He refuses to let others speak and dominates every meeting ... They work as a group - no one person is allowed to dominate. verb
+
+heater: /ˈhiː.t̬ɚ/ = a device that produces heat: a gas/electric heater .. I bought a little fan heater for my room, which heats the place up quickly ... The heater in this car takes a long time to have any effect. noun
+
+desperate: /ˈdes.pɚ.ət/ = very serious or bad: a desperate shortage of food/supplies ... The situation is desperate - we have no food, very little water and no medical supplies. adj
+
+stiff: /stɪf/ = firm or hard: His clothes were stiff with dried mud ... This hair spray has made my hair stiff. adj
+
+set about sth: — phrasal verb with set verb /set/ present participle setting | past tense and past participle set = to start to do or deal with something: I have no idea how to set about changing a tyre on a car ... I tried to apologize, but I think I set about it the wrong way. verb
+
+odd: /ɑːd/ = strange or unexpected: Her father was an odd man ... What an odd thing to say ... That's odd - I'm sure I put my keys in this drawer and yet they're not here ... It's odd that no one's seen him ... It must be odd to go back to your home town after forty years away ... I had a very odd dream about you last night ... I find him really odd - I can't figure him out at all ... It's odd that she should think I would want to see her again. adj
+
+odd: /ɑːd/ = not happening often: I used to do a lot of sport, but now I just play the odd game of tennis ... I spent the afternoon pottering around the garden doing a few odd jobs ... It was a beautiful day, with just the odd patch = piece of cloud in the sky. adj
+
+odd: /ɑːd/ = (of numbers) not able to be divided exactly by two: 3, 5, and 7 are all odd numbers ... The houses on this side of the street all have odd numbers. adj
+
+odd: /ɑːd/ = (of something that should be in a pair or set) separated from its pair or set: He's got a whole drawer full of odd socks ... I'd got a few odd (= I had various) balls of wool left over. adj
+
+pair: /per/ = two things of the same appearance and size that are intended to be used together, or something that consists of two parts joined together: a pair of shoes/gloves ... I can't find a matching pair of socks ... I'd like you to do this exercise in pairs (= in groups of two). noun
+
+pair: /per/ = two people who have a romantic relationship or are doing something together: They seem a very happy pair ... What have the pair of you been up to? noun
+
+ambition: /æmˈbɪʃ.ən/ = a strong wish to achieve something: He has already achieved his main ambition in life - to become wealthy ... She doubts whether she'll ever be able to fulfil her ambition ... I've always had a burning (= very great) ambition to be a film director ... After his heart attack, he abandoned his ambition to become prime minister. noun
+
+deck: /dek/ = a flat area for walking on, built across the space between the sides of a boat: We sat on deck until it was dark. noun
+
+usage: /ˈjuː.sɪdʒ/ = the way a particular word in a language, or a language in general, is used: a guide to common English usage. noun
+
+usage: /ˈjuː.sɪdʒ/ = the way something is treated or used: Sports equipment is designed to withstand hard usage.
+
+withstand: /wɪðˈstænd/ withstood | withstood = to be strong enough, or not be changed by something, or to oppose a person or thing successfully: a bridge designed to withstand earthquakes ... Our toys are designed to withstand the rough treatment of the average five-year-old ... The aircraft base is protected with specially designed shelters which are built to withstand ground and air attacks ... She is an artist whose work will undoubtedly withstand the test of time (= it will still be popular in the future). verb 
+
+enforce: /ɪnˈfɔːrs/ = to make people obey a law, or to make a particular situation happen or be accepted: It isn't always easy for the police to enforce speed limits ... The new law was generally admitted to be difficult to enforce. verb
+
+enforce: /-ˈfɔːrs/ = to make sure that people obey something such as a law or rule: Regulations do not mean anything unless they are enforced. /// to force somebody to do something, or to make sure that something happens: Instead of making enforced redundancies, the company will offer employees other alternatives, such as early retirement. verb
+
+redundancy: /rɪˈdʌn.dən.si/ = a situation in which someone loses their job because their employer does not need them /// in which someone has to leave their job, because they are no longer needed: The economic downturn has meant 10,000 redundancies in the Northeast ... She took voluntary redundancy ... Two thousand workers now face redundancy. noun
+
+alternative: /ɑːlˈtɝː.nə.t̬ɪv/ = An alternative plan or method is one that you can use if you do not want to use another one: The opposition parties have so far failed to set out an alternative strategy ... Despite all the advances in modern medicine, demand for alternative therapies and faith healing keeps growing. adj => also note that substitute is a noun and verb! 
+
+demand: /dɪˈmænd/ = to ask for something forcefully, in a way that shows that you do not expect to be refused: I demanded an explanation ... He has always demanded the highest standards of behaviour from his children ... "And where do you think you're going?" demanded the police officer ... I demand to see the manager.She demanded that he return the books he borrowed from her. verb
+
+refuse: /rɪˈfjuːz/ = to say that you will not do or accept something: He asked me to give him another loan, but I refused ... He's in trouble but he's refused all (my offers of) help ... On cold mornings the car always refuses to start ... She's a strict vegetarian and refuses to eat any poultry or fish ... He refused to say anything on the grounds that he might incriminate himself. verb
+
+incriminate: /ɪnˈkrɪm.ə.neɪt/ = to make someone seem guilty, especially of a crime: A secret report incriminating the company was leaked last week. verb
+
+on the ground = among the general public: Their political ideas have a lot of support on the ground. phrase
+
+finish up: — phrasal verb with finish verb /ˈfɪn.ɪʃ/ = If you finish up in a particular place or situation, that is the place or situation that you are in finally: You'll finish up dead if you carry on drinking like that ... She married a Spaniard and finished up in Barcelona. phrasal verb
+
+carry on: — phrasal verb with carry verb: /ˈker.i/ = to behave in an uncontrolled, excited, or anxious (= worried and nervous) way: The children have been carrying on all day. /// to have a sexual relationship: Is it true that Rachel and Marcus have been carrying on (with each other)? phrasal verb
+
+Spaniard: /ˈspæn.jɚd/ = a person from Spain. noun 
+
+refund: /ˈriː.fʌnd/ = an amount of money that is given back to you, especially because you are not happy with a product or service that you have bought: I took the radio back to the shop and asked for/demanded/got/was given a refund. noun
+
+refund: /ˌriːˈfʌnd/ = to give someone a refund: When I went on business to Peru, the office refunded my expenses ... The holiday was cancelled so the travel agency had to refund everybody the price of the tickets. verb
+
+as is: in the state that something is in at the present time: Will you wait till it's finished or take it home as is?. phrase
+
+shut: /ʃʌt/ = present participle shutting | past tense and past participle shut = to (cause to) close something: Please shut the gate ... I've got a surprise for you! Shut your eyes tightly and hold out your hand ... Mary shut her book and put it down on the table ... This window won't shut - it's jammed. verb
+
+mind: /maɪnd/ = (used in questions and negatives) to be annoyed or worried by something: Do you think he'd mind if I borrowed his book? ... I don't mind having a dog in the house so long as it's clean ... I wouldn't mind (= I would like) something to eat, if that's OK ... Would you mind turning (= please turn) your radio down a little please? ... Do you mind if I (= may I) put the TV on? ...  I'd rather stay in tonight, if you don't mind ... "Would you like tea or coffee?" "I don't mind - either." verb
+
+tightly: /ˈtaɪt.li/ = firmly or closely: Her eyes were tightly shut ... Marie held the baby tightly in her arms ... The media is tightly controlled in some countries. adv
+
+tight: /taɪt/ = (held or kept together) firmly or closely: Check that windows and doors are shut tight (= completely closed) before you leave ... Hold on tight and don't let go! ... My shoes were so tight that I could hardly walk ... The bandage must be tight enough to stop the bleeding. adj, adv 
